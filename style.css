@@ -139,9 +139,9 @@ p{
 }
 
 #header .nav-list ul a{
-    font-size: 2.5rem;
+    font-size: 2.2rem;
     font-weight: 500;
-    letter-spacing:.2rem;
+    letter-spacing:.1rem;
     text-decoration: none;
     color: white;
     text-transform: uppercase;
@@ -161,8 +161,8 @@ p{
     left: 50%;
     transform: translate(-50%, -50%) scale(0);
     color:#5b8a7c10;
-    font-size: 11rem;
-    letter-spacing: 50px;
+    font-size: 8rem;
+    letter-spacing: 40px;
     z-index: -1;
     transition: .3s ease letter-spacing;
 }
